@@ -2,6 +2,7 @@
 var firebaseConfig = {
   apiKey: "AIzaSyDz2A2pUElrUDJRwczCiaKLozGhNEm1mgQ",
   authDomain: "kwi2-af024.firebaseapp.com",
+  databaseURL: "https://kwi2-af024-default-rtdb.firebaseio.com",
   projectId: "kwi2-af024",
   storageBucket: "kwi2-af024.appspot.com",
   messagingSenderId: "900200296330",
