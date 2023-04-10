@@ -2,12 +2,13 @@
 
 var firebaseConfig = {
   apiKey: "AIzaSyCuMUhIj7dotbMOOXR5s2qsC6vOg_Lv2Y8",
-    authDomain: "ghgghyhg-c3b78.firebaseapp.com",
-    databaseURL: "https://ghgghyhg-c3b78-default-rtdb.firebaseio.com",
-    projectId: "ghgghyhg-c3b78",
-    storageBucket: "ghgghyhg-c3b78.appspot.com",
-    messagingSenderId: "565182218280",
-    appId: "1:565182218280:web:293cbcfce37f6769f8351d"
+  authDomain: "ghgghyhg-c3b78.firebaseapp.com",
+  databaseURL: "https://ghgghyhg-c3b78-default-rtdb.firebaseio.com",
+  projectId: "ghgghyhg-c3b78",
+  storageBucket: "ghgghyhg-c3b78.appspot.com",
+  messagingSenderId: "565182218280",
+  appId: "1:565182218280:web:293cbcfce37f6769f8351d",
+  measurementId: "G-6QZF2ZDNXV"
 };
 
 // Initialize Firebase
